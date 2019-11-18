@@ -5,11 +5,11 @@ We'll use two datasets data ses in this project, one containing real messages th
 
 This project will also include a web app where an emergency worker can input a new message and get classification results in several categories along with some basic visualizations of the data.
 
-# Description of the files in the repository:
-**1. data folder**: 
-In this folder, there are four files:
-**- disaster_messages:** This csv file contains real messages that were sent during disaster events
-**- disaster_categories:** This csv file contains categories of the messages
+# Description of the files in the repository: <br/>
+**1. data folder**: <br/>
+In this folder, there are four files: <br/>
+**- disaster_messages:** This csv file contains real messages that were sent during disaster events <br/>
+**- disaster_categories:** This csv file contains categories of the messages <br/>
 **- process_data.py:**  
 a data cleaning pipeline that:
 Loads the messages and categories datasets
