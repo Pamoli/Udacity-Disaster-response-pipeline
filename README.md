@@ -1,4 +1,4 @@
-# Udacity-Disaster-response-pipeline
+# Udacity-Disaster-response-pipeline-project
 In this project, we'll to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 
 We'll use two datasets data ses in this project, one containing real messages that were sent during disaster events, other having the classification of the messages across 36 categories (e.g., aid_relaed, missing_people, storm, fire etc.). The objective is to create a machine learning pipeline to categorize these events so that the messages can be sent to an appropriate disaster relief agency.
